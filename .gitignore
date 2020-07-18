@@ -1,5 +1,5 @@
 __test__/
 node_modules/
-src/model/
+src/model/scrapproductos-firebase.json
 .vercel
 now.json
