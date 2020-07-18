@@ -1,3 +1,5 @@
 __test__/
 node_modules/
 src/model/
+.vercel
+now.json

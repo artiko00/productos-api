@@ -2,6 +2,6 @@
 
 basicamente es una aplicacion de express con dos rutas.
 
-http://localhost:PORT/productos?limite=100 que entregara 100 productos
+https://api-productos.artiko00.vercel.app/productos?limite=100 que entregara 100 productos
 
-http://localhost:PORT/producto?sku=000000001 que entregara informacion del producto
+https://api-productos.artiko00.vercel.app/producto?sku=0000000000264 que entregara informacion del producto
